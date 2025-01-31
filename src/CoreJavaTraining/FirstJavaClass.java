@@ -11,7 +11,7 @@ public class FirstJavaClass {
 		// All code should place in this block
 		// Java control come to this block only
 		// Main block only responsible for execution
-		//Mo methods are allowed inside the main block.
+		// No methods are allowed inside the main block.
 
 		// syso Cntl+enter
 		System.out.println("Hello, It is resposible for print any msg in NEW line"); // Need to print anything in the
@@ -22,6 +22,7 @@ public class FirstJavaClass {
 
 		System.out.println(a); // already value present in variable(a) thats why we are not using " "
 
+		
 	}
 
 	// Method: it is a block in java class example 10 lines of code in every 100
